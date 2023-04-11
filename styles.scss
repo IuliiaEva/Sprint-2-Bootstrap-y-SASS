@@ -1,0 +1,24 @@
+
+//colors
+$primary:#5265E1;
+$secondary:#FA5959;
+
+.nav-link.active {
+    border-bottom: 4px solid #fa5959!important;
+}
+
+@media (min-width: 576px) { 
+    .section {
+        columns: 1;
+    }
+
+ }
+
+
+
+
+
+
+
+
+@import "./node_modules/bootstrap/scss/bootstrap.scss"
